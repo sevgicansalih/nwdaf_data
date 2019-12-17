@@ -1,15 +1,15 @@
-# Bogazici University 5G Research Group
+# Bogazici University, CMPE,  5G Research Group
 
-## Synthetic Data for Network Data Analytics Function (NWDAF)
+## Synthetic Data Set for Network Data Analytics Function (NWDAF)
 
 ### Contributors: 
 
 Salih Sevgican
 
-Meric Turan
+Meriç Turan (meric.turan@boun.edu.tr)
 
-Kerim Gokarslan
+Kerim Gökarslan
 
-H.Birkan Yilmaz
+H. Birkan Yilmaz
 
 Tuna Tugcu
