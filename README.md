@@ -1,8 +1,8 @@
-### Bogazici University 5G Research Group
+# Bogazici University 5G Research Group
 
 ## Synthetic Data for Network Data Analytics Function (NWDAF)
 
-# Contributors: 
+### Contributors: 
 
 Salih Sevgican
 
