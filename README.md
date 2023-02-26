@@ -13,3 +13,7 @@ Kerim Gökarslan
 H. Birkan Yilmaz
 
 Tuna Tugcu
+
+### Data Generation Code:
+
+Please visit: https://github.com/sevgicansalih/nwdaf_data_generation
