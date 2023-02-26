@@ -4,7 +4,7 @@
 
 ### Contributors: 
 
-Salih Sevgican
+Salih Sevgican (sevgicansalih@gmail.com)
 
 Meriç Turan (meric.turan@boun.edu.tr)
 
